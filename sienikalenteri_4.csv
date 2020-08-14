@@ -1,4 +1,4 @@
-group,month,amount 
+variable,group,value 
 Kanttarelli,2020-06-01,18
 Kanttarelli,2020-07-01,50
 Kanttarelli,2020-07-01,67
